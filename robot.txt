@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /admin/       # Impede o rastreamento da pasta admin
+Disallow: /private/    # Impede o rastreamento da pasta private
+
+Sitemap: https://akemi-velas-aromaticas.com.br/sitemap.xml
