@@ -16,6 +16,7 @@ const Home: React.FC = () => {
           <a className="font-medium">Akemi Velas Aromáticas</a>.
         </div>
         <div>
+          isto é um teste
           Apaixonada por velas desde criança tive a influência da minha
           mãe como fundamental para que eu começasse a produzi-las. Ela me
           ensinou a valorizar as tradições da nossa família e a expressar minha criatividade. Em
